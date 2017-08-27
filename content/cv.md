@@ -1,8 +1,7 @@
 Title: Bio
-Date: 2017-08-26 23:42
+Date: 2017-08-25 23:42
 Modified: 2017-08-27 08:30
 Category: CV
-Tags: CV
 Slug: cv
 Authors: Lucas R de Abreu
 Summary: Life experiences.

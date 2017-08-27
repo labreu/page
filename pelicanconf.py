@@ -6,9 +6,10 @@ SITETITLE = 'Lucas R. de Abreu'
 SITESUBTITLE = 'Data Science Blog'
 THEME = 'genus'
 GRAVATAR_IMAGE = 'theme/ss.png'
+#COPYRIGHT_YEAR = 2017
 AUTHOR = 'Lucas R. de Abreu'
 SITENAME = 'Lucas R. de Abreu'
-SITEURL = '/'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -24,10 +25,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),
+         ('Python.org', 'http://python.org/'),
+         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
