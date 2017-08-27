@@ -8,36 +8,39 @@ Authors: Lucas R de Abreu
 Summary: Life experiences.
 
 
-## Professional experience
+### Professional experience
 
 * Fev/2016 - Today: Data Science Analyst at Accenture
+    * Data analysis, supervised and unsupervised machine learning models using scikit-learn and tensorflow.
+    * Python backend using Flask
 
-- Supervised and Unsupervised machine learning models
-- Python back-end using Flask
 * Fev/2015 - Jul/2015: R&D Intern at Mogai Tecnologia
+    * Raspberry Pi
+    * Arduino
+    * OpenCV
+    * C++
 
-- Raspberry Pi
-- Arduino
-- OpenCV
-- C++
-
-## Education
+### Education
+* 2014 - 2014: Electronics and Computer Engineering - Newcastle University - UK
 * 2009 - 2016: Computer Engineering - UFES
 
-* 2014 - 2014: Electronics and Computer Engineering - Newcastle University - UK
-
 ### Skills
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Tensorflow
-- Flask
-- PySpark
-- R
-- tidyverse
-- Scala
-- SQL
-- Javascript
-- Alteryx
+#### Languages
+   - Python
+   - SQL
+   - R
+   - Javascript
+   - C++
+   - Scala
+   - Matlab
+
+#### Tools and libraries
+   - Pandas
+   - Scikit-learn
+   - Matplotlib
+   - Tensorflow
+   - Flask
+   - PySpark
+   - tidyverse
+   - Alteryx
 
