@@ -7,7 +7,7 @@ SITESUBTITLE = 'Data Science Blog'
 THEME = 'genus'
 GRAVATAR_IMAGE = 'theme/ss.png'
 #COPYRIGHT_YEAR = 2017
-AUTHOR = 'Lucas R. de Abreu'
+AUTHOR = 'Lucas R. de Abreu - lucasribeiroabreu@gmail.com'
 SITENAME = 'Lucas R. de Abreu'
 SITEURL = ''
 
