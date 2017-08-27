@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucas R. de Abreu</title><link href="https://labreu.github.io/page/" rel="alternate"></link><link href="https://labreu.github.io/page/feeds/cv.atom.xml" rel="self"></link><id>https://labreu.github.io/page/</id><updated>2017-08-27T08:30:00+02:00</updated><entry><title>Bio</title><link href="https://labreu.github.io/page/cv.html" rel="alternate"></link><published>2017-08-27T08:30:00+02:00</published><updated>2017-08-27T08:30:00+02:00</updated><author><name>Lucas R de Abreu</name></author><id>tag:labreu.github.io,2017-08-26:page/cv.html</id><summary type="html">&lt;h3&gt;Professional experience&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucas R. de Abreu</title><link href="https://labreu.github.io/page/" rel="alternate"></link><link href="https://labreu.github.io/page/feeds/cv.atom.xml" rel="self"></link><id>https://labreu.github.io/page/</id><updated>2017-08-27T08:30:00+02:00</updated><entry><title>Bio</title><link href="https://labreu.github.io/page/cv.html" rel="alternate"></link><published>2017-08-27T08:30:00+02:00</published><updated>2017-08-27T08:30:00+02:00</updated><author><name>Lucas R de Abreu</name></author><id>tag:labreu.github.io,2017-08-25:page/cv.html</id><summary type="html">&lt;h3&gt;Professional experience&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Fev/2016 - Today: Data Science Analyst at Accenture&lt;/p&gt;
@@ -44,4 +44,4 @@
 &lt;li&gt;PySpark&lt;/li&gt;
 &lt;li&gt;tidyverse&lt;/li&gt;
 &lt;li&gt;Alteryx&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CV"></category></entry></feed>
+&lt;/ul&gt;</summary></entry></feed>

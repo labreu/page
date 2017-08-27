@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucas R. de Abreu</title><link href="https://labreu.github.io/page/" rel="alternate"></link><link href="https://labreu.github.io/page/feeds/data-science.atom.xml" rel="self"></link><id>https://labreu.github.io/page/</id><updated>2017-08-26T22:10:00+02:00</updated><entry><title>Python Plots</title><link href="https://labreu.github.io/page/plotting.html" rel="alternate"></link><published>2017-08-26T22:10:00+02:00</published><updated>2017-08-26T22:10:00+02:00</updated><author><name>Lucas R. de Abreu</name></author><id>tag:labreu.github.io,2017-08-26:page/plotting.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucas R. de Abreu</title><link href="https://labreu.github.io/page/" rel="alternate"></link><link href="https://labreu.github.io/page/feeds/python.atom.xml" rel="self"></link><id>https://labreu.github.io/page/</id><updated>2017-08-26T22:10:00+02:00</updated><entry><title>HTML Plots</title><link href="https://labreu.github.io/page/plotting.html" rel="alternate"></link><published>2017-08-26T22:10:00+02:00</published><updated>2017-08-26T22:10:00+02:00</updated><author><name>Lucas R. de Abreu</name></author><id>tag:labreu.github.io,2017-08-26:page/plotting.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -2407,4 +2407,4 @@ giAIgiAIou35/7wkhWrumczqAAAAAElFTkSuQmCC
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</summary><category term="python"></category><category term="plotting"></category></entry></feed>
+</summary></entry></feed>
